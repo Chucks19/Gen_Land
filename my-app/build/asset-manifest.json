@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad13b4b0.css",
+    "main.js": "/static/js/main.fee595ba.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/house-isolated-field.jpg": "/static/media/house-isolated-field.0cde0a56e366cf61cb44.jpg",
+    "static/media/apartment-building-city-with-copy-space.jpg": "/static/media/apartment-building-city-with-copy-space.8424594afa13047d6d62.jpg",
+    "static/media/hand-holding-house-real-estate-property-model.jpg": "/static/media/hand-holding-house-real-estate-property-model.0e527bae5f415a1f2526.jpg",
+    "static/media/house-isolated-field1.jpg": "/static/media/house-isolated-field1.fbd216b71971891a809d.jpg",
+    "static/media/pexels-photo-1769369.jpeg": "/static/media/pexels-photo-1769369.58f6427be370f5c8376c.jpeg",
+    "static/media/pexels-photo-3855622.jpeg": "/static/media/pexels-photo-3855622.ef2444c1f0d34c12fd62.jpeg",
+    "static/media/56.jpg": "/static/media/56.75744b5348fbfb4e6e05.jpg",
+    "static/media/pexels-photo-1115804.jpeg": "/static/media/pexels-photo-1115804.653324f64da8478e491f.jpeg",
+    "static/media/wooden-keychain-white.jpg": "/static/media/wooden-keychain-white.4a85d5f41fcc12454b7d.jpg",
+    "static/media/pexels-photo-2090651.jpeg": "/static/media/pexels-photo-2090651.8a4b923f66a652b6d052.jpeg",
+    "static/media/pexels-photo-911758.jpeg": "/static/media/pexels-photo-911758.5c050fb9a658b65493af.jpeg",
+    "static/media/pexels-photo-3874015.jpeg": "/static/media/pexels-photo-3874015.2683a9f4d02fce49e11e.jpeg",
+    "static/media/pexels-photo-532568.jpeg": "/static/media/pexels-photo-532568.52a674521bc62aa3351d.jpeg",
+    "static/media/pexels-photo-325185.jpeg": "/static/media/pexels-photo-325185.a8b04ef472127ccbdf63.jpeg",
+    "static/media/pexels-photo-3924335.jpeg": "/static/media/pexels-photo-3924335.0f2c5a766d5ca1ebb203.jpeg",
+    "static/media/pexels-photo-1029615.jpeg": "/static/media/pexels-photo-1029615.5f1ed2cf062be896cea8.jpeg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.ad13b4b0.css.map": "/static/css/main.ad13b4b0.css.map",
+    "main.fee595ba.js.map": "/static/js/main.fee595ba.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad13b4b0.css",
+    "static/js/main.fee595ba.js"
+  ]
+}
