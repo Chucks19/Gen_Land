@@ -6,8 +6,8 @@ const HomeBody = () => {
         <div className="u-container-style u-expanded-width u-group u-image u-radius-50 u-shape-round u-image-1" data-image-width="1500" data-image-height="1071" data-animation-name="customAnimationIn" data-animation-duration="2000">
           <div className="u-container-layout u-valign-middle u-container-layout-1">
             <h1 className="u-text u-text-1"> Easy Way to Find a Perfect Property</h1>
-            <p className="u-text u-text-default u-text-2">Sample text. Click to select the Text Element.</p>
-            <p className="u-text u-text-default u-text-3">Image from <a href="https://freepik.com" className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-black u-btn-1">Freepik</a>
+            <p className="u-text u-text-default u-text-2">.</p>
+            <p className="u-text u-text-default u-text-3">Image from <a href="https://nigeriapropertycentre.com/" className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-black u-btn-1">Freepik</a>
             </p>
             <div class="u-form u-grey-5 u-radius-20 u-form-1">
               <form  class="u-clearfix u-form-horizontal u-form-spacing-10 u-inner-form" source="email" name="form" style={{padding:"20px"}}>
@@ -32,49 +32,49 @@ const HomeBody = () => {
             <div className="u-container-align-center u-container-style u-list-item u-repeater-item">
               <div className="u-container-layout u-similar-container u-valign-middle u-container-layout-1">
                 <div className="u-image u-image-circle u-image-1" alt="" data-image-width="2250" data-image-height="1500"></div>
-                <h5 className="u-align-center u-text u-text-default u-text-1">Paris</h5>
+                <h5 className="u-align-center u-text u-text-default u-text-1">Togo</h5>
                 <p className="u-align-center u-text u-text-default u-text-2">10 Property</p>
               </div>
             </div>
             <div className="u-container-align-center u-container-style u-list-item u-repeater-item">
               <div className="u-container-layout u-similar-container u-valign-middle u-container-layout-2">
                 <div className="u-image u-image-circle u-image-2" alt="" data-image-width="2250" data-image-height="1500"></div>
-                <h5 className="u-align-center u-text u-text-default u-text-3">New York</h5>
+                <h5 className="u-align-center u-text u-text-default u-text-3">Nigeria</h5>
                 <p className="u-align-center u-text u-text-default u-text-4">40 Property</p>
               </div>
             </div>
             <div className="u-container-align-center u-container-style u-list-item u-repeater-item">
               <div className="u-container-layout u-similar-container u-valign-middle u-container-layout-3">
                 <div className="u-image u-image-circle u-image-3" alt="" data-image-width="1500" data-image-height="1500"></div>
-                <h5 className="u-align-center u-text u-text-default u-text-5">Los Angeles</h5>
+                <h5 className="u-align-center u-text u-text-default u-text-5">Accra</h5>
                 <p className="u-align-center u-text u-text-default u-text-6">34 property</p>
               </div>
             </div>
             <div className="u-container-align-center u-container-style u-list-item u-repeater-item">
               <div className="u-container-layout u-similar-container u-valign-middle u-container-layout-4">
                 <div className="u-image u-image-circle u-image-4" alt="" data-image-width="2250" data-image-height="1500"></div>
-                <h5 className="u-align-center u-text u-text-default u-text-7">Chicago</h5>
+                <h5 className="u-align-center u-text u-text-default u-text-7">Kenya</h5>
                 <p className="u-align-center u-text u-text-default u-text-8">20 Property</p>
               </div>
             </div>
             <div className="u-container-align-center u-container-style u-list-item u-repeater-item">
               <div className="u-container-layout u-similar-container u-valign-middle u-container-layout-5">
                 <div className="u-image u-image-circle u-image-5" alt="" data-image-width="1006" data-image-height="1500"></div>
-                <h5 className="u-align-center u-text u-text-default u-text-9">Verona</h5>
+                <h5 className="u-align-center u-text u-text-default u-text-9">South Africa</h5>
                 <p className="u-align-center u-text u-text-default u-text-10">60 Property</p>
               </div>
             </div>
             <div className="u-container-align-center u-container-style u-list-item u-repeater-item">
               <div className="u-container-layout u-similar-container u-valign-middle u-container-layout-6">
                 <div className="u-image u-image-circle u-image-6" alt="" data-image-width="1200" data-image-height="1500"></div>
-                <h5 className="u-align-center u-text u-text-default u-text-11"> Tokio</h5>
+                <h5 className="u-align-center u-text u-text-default u-text-11"> Eygpt</h5>
                 <p className="u-align-center u-text u-text-default u-text-12">56 Property</p>
               </div>
             </div>
             <div className="u-container-align-center u-container-style u-list-item u-repeater-item">
               <div className="u-container-layout u-similar-container u-valign-middle u-container-layout-7">
                 <div className="u-image u-image-circle u-image-7" alt="" data-image-width="2250" data-image-height="1500"></div>
-                <h5 className="u-align-center u-text u-text-default u-text-13">Pekin</h5>
+                <h5 className="u-align-center u-text u-text-default u-text-13">Cameroon</h5>
                 <p className="u-align-center u-text u-text-default u-text-14">60 Property</p>
               </div>
             </div>
@@ -108,8 +108,8 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
     </section>
     <section className="u-clearfix u-section-3" id="sec-5b34" style={{padding:"0px 40px"}}>
       <div className="u-clearfix u-sheet u-sheet-1">
-        <h2 className="u-text u-text-default u-text-1"> Properties htmlFor Rent</h2>
-        <p className="u-text u-text-default u-text-2">Image from <a href="https://freepik.com" className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1">Freepik</a>
+        <h2 className="u-text u-text-default u-text-1"> Properties For Rent</h2>
+        <p className="u-text u-text-default u-text-2">Image from <a href="https://nigeriapropertycentre.com/" className="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1">Freepik</a>
         </p>
         <a href="https://nicepage.best" className="u-btn u-button-style u-btn-2">view more</a>
         <div className="u-expanded-width u-list u-list-1">
@@ -118,8 +118,8 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
               <div className="u-container-layout u-similar-container u-valign-bottom u-container-layout-1">
                 <div className="u-container-style u-expanded-width u-group u-radius-20 u-shape-round u-white u-group-1">
                   <div className="u-container-layout u-valign-middle u-container-layout-2">
-                    <h5 className="u-text u-text-default u-text-3">$ 250</h5>
-                    <p className="u-text u-text-4">Sample text click to select</p>
+                    <h5 className="u-text u-text-default u-text-3"># 25,000,000</h5>
+                    <p className="u-text u-text-4">Sample Pictures, click to connect</p>
                   </div>
                 </div>
               </div>
@@ -131,8 +131,8 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
               <div className="u-container-layout u-similar-container u-valign-bottom u-container-layout-3">
                 <div className="u-container-style u-expanded-width u-group u-radius-20 u-shape-round u-white u-group-2">
                   <div className="u-container-layout u-valign-middle u-container-layout-4">
-                    <h5 className="u-text u-text-default u-text-5"> $ 550</h5>
-                    <p className="u-text u-text-6"> Sample text click to select</p>
+                    <h5 className="u-text u-text-default u-text-5"> # 55,000,000</h5>
+                    <p className="u-text u-text-6"> Sample Pictures click to select</p>
                   </div>
                 </div>
               </div>
@@ -141,8 +141,8 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
               <div className="u-container-layout u-similar-container u-valign-bottom u-container-layout-5">
                 <div className="u-container-style u-expanded-width u-group u-radius-20 u-shape-round u-white u-group-3">
                   <div className="u-container-layout u-valign-middle u-container-layout-6">
-                    <h5 className="u-text u-text-default u-text-7"> $ 350</h5>
-                    <p className="u-text u-text-8"> Sample text click to select</p>
+                    <h5 className="u-text u-text-default u-text-7"> # 35,000,000</h5>
+                    <p className="u-text u-text-8"> click for more pictures</p>
                   </div>
                 </div>
               </div>
@@ -151,8 +151,8 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
               <div className="u-container-layout u-similar-container u-valign-bottom u-container-layout-7">
                 <div className="u-container-style u-expanded-width u-group u-radius-20 u-shape-round u-white u-group-4">
                   <div className="u-container-layout u-valign-middle u-container-layout-8">
-                    <h5 className="u-text u-text-default u-text-9"> $ 2500</h5>
-                    <p className="u-text u-text-10"> Sample text click to select</p>
+                    <h5 className="u-text u-text-default u-text-9"> # 25,000,000</h5>
+                    <p className="u-text u-text-10"> click for more pictures</p>
                   </div>
                 </div>
               </div>
@@ -161,8 +161,8 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
               <div className="u-container-layout u-similar-container u-valign-bottom u-container-layout-9">
                 <div className="u-container-style u-expanded-width u-group u-radius-20 u-shape-round u-white u-group-5">
                   <div className="u-container-layout u-valign-middle u-container-layout-10">
-                    <h5 className="u-text u-text-default u-text-11"> $ 1450</h5>
-                    <p className="u-text u-text-12"> Sample text click to select</p>
+                    <h5 className="u-text u-text-default u-text-11"> # 14,500,000</h5>
+                    <p className="u-text u-text-12"> click for more pictures</p>
                   </div>
                 </div>
               </div>
@@ -171,8 +171,8 @@ c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,24
               <div className="u-container-layout u-similar-container u-valign-bottom u-container-layout-11">
                 <div className="u-container-style u-expanded-width u-group u-radius-20 u-shape-round u-white u-group-6">
                   <div className="u-container-layout u-valign-middle u-container-layout-12">
-                    <h5 className="u-text u-text-default u-text-13"> $ 150</h5>
-                    <p className="u-text u-text-14"> Sample text click to select</p>
+                    <h5 className="u-text u-text-default u-text-13"> # 15,000,000</h5>
+                    <p className="u-text u-text-14"> click for more pictures</p>
                   </div>
                 </div>
               </div>

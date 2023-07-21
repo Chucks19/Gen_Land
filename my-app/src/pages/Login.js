@@ -15,18 +15,18 @@ const Login = () => {
     const [close, setClose] = useState(false)
 
 
-    
+    console.log("Hello Word")
    
     
     
      const HandleLogin =async (e)=>{
         e.preventDefault()
-        
+            
         
         try {
-          const res = await fetch('/login',{
-              method:"POST",
-              body:JSON.stringify({email,password}),
+         const res = await fetch('/login',{
+           method:"POST",
+         body:JSON.stringify({email,password}),
               headers:{'content-Type':'application/json'}
           })
 
@@ -34,16 +34,16 @@ const Login = () => {
             
           }
         }catch(err){
-          console.log(err);
+          console.log(err.response.errors)
         }
-    }
+    
 
-
+      }
     return ( 
         <div className="signup position" > 
         
         <div className='d-flex py-5 justify-content-center w-100 text-white '>
-        <form className='w-50 ' onSubmit={HandleLogin}>
+        <form className='w-50'>
         <h3 className='text-center'>Login</h3>
         
         <div className="mb-3">
@@ -74,8 +74,8 @@ const Login = () => {
 
         </div>
         <div className="d-grid text-center">
-          <button type="submit" className="btn btn-primary">
-            Sign Up
+          <button type="submit" onClick= {HandleLogin}  className="btn btn-primary">
+            Login 
           </button>
         </div>
         <p className="forgot-password text-right">
@@ -100,5 +100,6 @@ const Login = () => {
         
         );
 }
+
  
 export default Login;
